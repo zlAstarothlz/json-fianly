@@ -20,23 +20,23 @@
       "country": "Bolivia"
     },
     {
-      "id": "ed45",
-      "name": "Pedrito",
+      "id": "116a",
+      "name": "pedrito",
       "email": "pedrito@gmail.com",
-      "password": "12345678",
-      "dateBirth": "2017-04-11T05:00:00.000Z",
+      "password": "123456789",
+      "dateBirth": "2025-06-12T05:00:00.000Z",
       "gender": "male",
       "interests": [
         {
-          "value": "sports",
-          "text": "Deportes"
-        },
-        {
           "value": "music",
           "text": "Música"
+        },
+        {
+          "value": "movies",
+          "text": "Películas"
         }
       ],
-      "country": "Bolivia"
+      "country": "Guatemala"
     }
   ],
   "products": [
