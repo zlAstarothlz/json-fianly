@@ -18,6 +18,25 @@
         }
       ],
       "country": "Bolivia"
+    },
+    {
+      "id": "ed43",
+      "name": "Pedrito",
+      "email": "pedrito@gmail.com",
+      "password": "12345678",
+      "dateBirth": "2018-04-11T05:00:00.000Z",
+      "gender": "male",
+      "interests": [
+        {
+          "value": "sports",
+          "text": "Deportes"
+        },
+        {
+          "value": "music",
+          "text": "Música"
+        }
+      ],
+      "country": "Bolivia"
     }
   ],
   "products": [
